@@ -1,0 +1,12 @@
+.DS_Store
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+
+.turbo/
+.dockerignore
+Dockerfile
+dist/
+node_modules/
